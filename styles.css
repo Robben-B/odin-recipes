@@ -1,0 +1,47 @@
+body {
+    background: rgb(111, 92, 92);
+    font-family: sans-serif;
+}
+
+.container {
+    background: rgb(90, 90, 90);
+    width: 600px;
+    margin: 16px auto;
+}
+
+.head1 {
+    text-align: center;
+    color: white;
+    padding: 8px;
+    border: ridge 9px black;
+    background-color: black;
+}
+
+.rcontainer {
+    text-align: left;
+}
+
+.rlist {
+    display: inline-block;
+    text-align: left;
+}
+.ctacos {
+    margin: 0px 2px 6px 0px ;
+    padding: 4px 8px 4px 8px;
+    border: solid 4px black;
+    background-color: rgb(148, 162, 167);
+}
+
+.btacos {
+    margin: 0px 2px 6px 0px ;
+    padding: 4px 8px 4px 8px;
+    border: solid 4px black;
+    background-color: rgb(148, 162, 167);
+}
+
+.tsoup {
+    margin: 0px 2px 6px 0px ;
+    padding: 4px 8px 4px 8px;
+    border: solid 4px black;
+    background-color: rgb(148, 162, 167);
+}
